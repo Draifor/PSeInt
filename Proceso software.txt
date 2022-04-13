@@ -1,0 +1,10 @@
+Modelo de programación ESTRUCTURADO
+
+Entradas tengo (Datos)
+Yo diseño el proceso
+Salidas generar (Datos o información)
+
+
+Variables o constantes
+
+Declarar las variables
